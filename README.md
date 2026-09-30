@@ -22,7 +22,7 @@ Note: This is an ongoing project. New resources will be added over time.
     - [Tutorials (Planned)](#tutorials-planned)
 ---
 
-## 1. Decision Modelling
+## Decision Modelling
 
 ### Modelling Tools
 - [A Web-based Decision Tree Drawer](https://dare.shinyapps.io/tree/)
@@ -36,12 +36,27 @@ Note: This is an ongoing project. New resources will be added over time.
 - [Blog: Matching Adjusted Indirect Comparison (MAIC) – 4 Practical steps to follow](https://www.quantics.co.uk/blog/practical-steps-when-conducting-a-matching-adjusted-indirect-comparison-maic/)
 - [Blog: How to do Matching Adjusted Indirect Comparisons](https://medium.com/@Tim_Reason/matching-adjusted-indirect-comparisons-109a173dac65)
 - [R code for a simple MAIC using logistic regression with 4 steps](https://github.com/edefojoshua/Matching-Adjusted-Indirect-Comparison-)
+- [ISPOR Workshop: Adv Methods for MAIC](https://www.ispor.org/docs/default-source/intl2024/maic---ispor-us-2024-v1.pdf?sfvrsn=3ca90b03_0)
+- [Doubly-Robust MAIC](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1616)
+	- [R package: {drMAIC}](https://github.com/heorlytics/drMAIC)
+- [Paper: Two-stage matching-adjusted indirect comparison](https://link.springer.com/article/10.1186/s12874-022-01692-9)
+	- [Code: Two-stage MAIC](https://github.com/remiroazocar/Maic2stage)
+- [Maximum ESS method than conventional MAIC](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1466)
+	- [A Related Thesis: Optimal Designs for MAIC](https://mspace.lib.umanitoba.ca/server/api/core/bitstreams/3efd1399-8cc6-47c6-af2d-a364573125fb/content)
+- [R4HTA Book Chapter: MAIC](https://gianluca.statistica.it/books/online/r-hta/chapters/13.indirect_treatment_comparisons/itc#sec-maic-theory)
+- [R package: {maicChecks} - for assessing the feasibility of conducting MAIC](https://clyau.github.io/maicChecks/)
+	- [Paper for {maicChecks}](https://onlinelibrary.wiley.com/doi/10.1002/pst.2210)
+- [R package: {maicplus}](https://hta-pharma.github.io/maicplus/main/articles/introduction.html)
+	- [Github Repo](https://github.com/hta-pharma/maicplus)
 
 #### Simulated Treatment Comparison (STC)
 - [Blog: What is a STC, and can it help my HTA submission?](https://www.quantics.co.uk/blog/what-is-a-simulated-treatment-comparison-and-can-it-help-my-hta-submission/)
 - [R4HTA Book Chapter: STC](https://gianluca.statistica.it/books/online/r-hta/chapters/13.indirect_treatment_comparisons/itc#simulated-treatment-comparison)
 - [Paper: Simulation-based STC approach in G-computation framework](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1565)
 	- [Code](https://github.com/remiroazocar/Gcomp_indirect_comparisons_simstudy)
+- [Paper: Advancing unanchored STC: A novel implementation and simulation study](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1718)
+	- [Code: Unanchored STC](https://github.com/SRenScharr/unanchored-simulated-treatment-comparison/tree/main)
+- [Paper: Four alternative methodologies for STC](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1681)
 
 
 ## Books
@@ -61,7 +76,7 @@ Note: This is an ongoing project. New resources will be added over time.
 - Full-text: [Causal Inference: lecture notes](https://www.stats.ox.ac.uk/~evans/APTS/)
 - Full-text: [Introduction to Modern Statistics (2nd edition)](https://openintrostat.github.io/ims/)
 	- [Text book Data sets](https://www.openintro.org/data/)
-	- [1st Version](https://openintro-ims1.netlify.app/)
+	- [1st edition](https://openintro-ims1.netlify.app/)
 
 
 ## Tools
@@ -104,3 +119,11 @@ Note: This is an ongoing project. New resources will be added over time.
 - [Github Repository: ISPOR 2023 Model Calibration Short Course](https://github.com/DARTH-git/model-calibration-ispor-shortcourse)
 
 ### Tutorials (Planned)
+
+#### Modelling
+
+#### Uncertainty (Sensitivity Analysis)
+- [Intro to Uncertainty & Interactive stochastic distributions](https://darkpeakanalytics.shinyapps.io/uncertainty/)
+- [Blog: How to Create a Tornado Chart for Sensitivity Analysis in Excel](https://www.linkedin.com/pulse/how-create-tornado-chart-sensitivity-analysis-excel-practical-zhao-o1qaf/)
+	- [Excel Example](https://github.com/davidzhao1015/draw-tornado-diagram/tree/main)
+- [Using Excel VBA macros to conduct OWSA and Tornado diagram](https://mbounthavong.com/blog/2024/5/18/using-excel-vba-macros-to-conduct-one-way-sensitivity-analyses-and-tornado-diagram)

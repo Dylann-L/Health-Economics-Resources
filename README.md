@@ -1,7 +1,6 @@
 # Health Economics Resources
-A curated list of resources for health economics and outcome research (HEOR).
-
-Note: This is an ongoing project. New resources will be added over time.
+This is a curated list of resources for Health Economics and Outcome Research (HEOR).
+This is an ongoing project. New resources will be added over time.
 
 
 ## Contents
